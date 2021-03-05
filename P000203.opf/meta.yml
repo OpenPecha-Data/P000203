@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000203
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བགྲོད་བྱ་ས་དང་ལམ་གྱི་རིམ་པ་ཕྱེ་བ། །
   authors: []
-  sku: RDI-TOK-09-1
   layers:
   - book_title
   - chapter_title
   - tsawa
   - quotation
   - sabche
+  id: RDI-TOK-09-1
 web_metadata:
   title:
     en: An Analysis of the Paths and Levels to Be Traversed
