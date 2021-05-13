@@ -2,19 +2,19 @@ id: 6dc119d93d244da0acbbd2c8e7f45dd9
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: 4097a9fbd8ba4be8a7cead1d4475807f
-  span:
-    start: 87
-    end: 134
-- id: 7877be909cf948eeb32d864d8e0ea5a1
-  span:
-    start: 60415
-    end: 60465
-- id: e922543946794a209b0a681f485472f7
-  span:
-    start: 95826
-    end: 95878
-- id: 8781084edde44fc4ada6e09e065f85e4
-  span:
-    start: 143524
-    end: 143577
+  4097a9fbd8ba4be8a7cead1d4475807f:
+    span:
+      start: 87
+      end: 134
+  7877be909cf948eeb32d864d8e0ea5a1:
+    span:
+      start: 60415
+      end: 60465
+  e922543946794a209b0a681f485472f7:
+    span:
+      start: 95826
+      end: 95878
+  8781084edde44fc4ada6e09e065f85e4:
+    span:
+      start: 143524
+      end: 143577
